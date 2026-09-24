@@ -84,24 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GMOFOLYF
 
 [Document3]
-DocumentPath=..\..\..\..\IEEE-PCB-Workshop-Fall-2026-main\Component_Library\Altium\NFC_Luggage_Tag\NFC_Controller.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GMOFOLYF
-
-[Document4]
-DocumentPath=MicroController.SchDoc
+DocumentPath=Microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJDWLHYX
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\..\IEEE-PCB-Workshop-Fall-2026-main\Component_Library\Altium\NFC_Luggage_Tag\NFC_Luggage_Tag.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,6 +116,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYLYFSQL
+
+[Document5]
+DocumentPath=NFC_Controller.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMOFOLYF
 
 [Configuration1]
 Name=Sources
