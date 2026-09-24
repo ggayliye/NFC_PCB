@@ -31,3 +31,5 @@ Altium is expected to be the easiest to follow along. Provided resources is expe
 
 Open sourse software. KiCAD can import Altium files.
 
+Differences: Each project opens in a new window instead of nested under each project on the left menu.
+
