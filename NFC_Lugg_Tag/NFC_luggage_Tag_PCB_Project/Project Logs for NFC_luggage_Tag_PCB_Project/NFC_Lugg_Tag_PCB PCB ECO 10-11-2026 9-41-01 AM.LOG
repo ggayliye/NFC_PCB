@@ -1,0 +1,291 @@
+Added Component: Designator=A1(NFC Antenna 45 x 37)
+Added Component: Designator=C1(CAP0805)
+Added Component: Designator=C2(CAP0402)
+Added Component: Designator=C3(CAP0805)
+Added Component: Designator=C4(CAP0402)
+Added Component: Designator=C5(CAP0805)
+Added Component: Designator=C6(CAP0805)
+Added Component: Designator=C7(CAP0805)
+Added Component: Designator=C8(CAP0805)
+Added Component: Designator=C9(CAP0805)
+Added Component: Designator=C10(CAP0805)
+Added Component: Designator=C11(CAP0805)
+Added Component: Designator=C12(CAP0805)
+Added Component: Designator=C13(CAP0402)
+Added Component: Designator=C14(CAP0402)
+Added Component: Designator=D1(LEDM2012X80N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LEDM2012X80N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LEDM2012X80N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smc-diodes.com/propdf/1N4148W%20N0571%20REV.E.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD323)
+Added Component: Designator=D5(SOD323)
+Added Component: Designator=D6(SOD323)
+Added Component: Designator=D7(SOD323)
+Added Component: Designator=D8(SOD323)
+Added Component: Designator=H1(HEADER_2X3)
+Added Component: Designator=H2(Header_1X6)
+Added Component: Designator=H3(Header_1X2)
+Added Component: Designator=IC1(SOIC8)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ST25DV16KC-IE6S3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/st25dv16kc-ie6s3/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/st25dv04kc.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ST25DV16KC-IE6S3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-ST25DV16KC-IE6S3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST25DV16KC-IE6S3?qs=QNEnbhJQKvbFHl9iSDOFGA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(QFP50P900X900X160-48N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32L052C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32l052c8t6/stmicroelectronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/dc/d6/6d/24/86/2a/40/d3/DM00108217.pdf/files/DM00108217.pdf/jcr:content/translations/en.DM00108217.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32L052C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32L052C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32L052C8T6?qs=DqCdCwOw4%2F6IOKsu3MZAIw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(USB TYPE C 12 PIN)
+Added Component: Designator=R1(RESC0805)
+Added Component: Designator=R2(RESC0805)
+Added Component: Designator=R3(RESC0805)
+Added Component: Designator=R4(RESC0805)
+Added Component: Designator=R5(RESC0805)
+Added Component: Designator=R6(RESC0805)
+Added Component: Designator=R7(RESC0805)
+Added Component: Designator=R8(RESC0805)
+Added Component: Designator=R9(RESC0805)
+Added Component: Designator=R10(RESC0805)
+Added Component: Designator=SW1(Tactile Button 4.2mm x 3.2mm)
+Added Component: Designator=U1(SOT23-5)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TPS7A0333PDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps7a0333pdbvr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tps7a03.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1622188030827&ref_url=https%253A%252F%252Fwww.digikey.in%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS7A0333PDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS7A0333PDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A0333PDBVR?qs=OlC7AqGiEDkyaMBNBZB82A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(ECS1201036B2CWYTR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ECS-120-10-36B2-CWY-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ecs-120-10-36b2-cwy-tr/ecs-international.html?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ecsxtal.com/store/pdf/ECX-2236B2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ECS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECS-120-10-36B2-CWY-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "520-120-10-36B2CWYTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ECS/ECS-120-10-36B2-CWY-TR?qs=QNEnbhJQKva%2FwIO%2FvYs2yg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3_USB Pin=C9-1
+Added Pin To Net: NetName=+3.3_USB Pin=C11-1
+Added Pin To Net: NetName=+3.3_USB Pin=D7-2
+Added Pin To Net: NetName=+3.3_USB Pin=H2-1
+Added Pin To Net: NetName=+3.3_USB Pin=IC2-36
+Added Pin To Net: NetName=+3.3_USB Pin=U1-5
+Added Net: Name=+3.3_USB
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H2-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=GND Pin=IC2-8
+Added Pin To Net: NetName=GND Pin=IC2-23
+Added Pin To Net: NetName=GND Pin=IC2-35
+Added Pin To Net: NetName=GND Pin=IC2-38
+Added Pin To Net: NetName=GND Pin=IC2-47
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-15
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=I2C1_SCL Pin=H1-3
+Added Net: Name=I2C1_SCL
+Added Pin To Net: NetName=I2C1_SDA Pin=H1-4
+Added Net: Name=I2C1_SDA
+Added Pin To Net: NetName=LED INDC0 Pin=IC2-41
+Added Pin To Net: NetName=LED INDC0 Pin=R5-1
+Added Net: Name=LED INDC0
+Added Pin To Net: NetName=LED INDC1 Pin=IC2-40
+Added Pin To Net: NetName=LED INDC1 Pin=R6-1
+Added Net: Name=LED INDC1
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=NetA1_1 Pin=C2-1
+Added Pin To Net: NetName=NetA1_1 Pin=IC1-2
+Added Net: Name=NetA1_1
+Added Pin To Net: NetName=NetA1_2 Pin=A1-2
+Added Pin To Net: NetName=NetA1_2 Pin=C2-2
+Added Pin To Net: NetName=NetA1_2 Pin=IC1-3
+Added Net: Name=NetA1_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R5-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R6-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=H3-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetH1_5 Pin=H1-5
+Added Pin To Net: NetName=NetH1_5 Pin=IC2-45
+Added Net: Name=NetH1_5
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=IC2-43
+Added Pin To Net: NetName=NetIC1_5 Pin=R4-2
+Added Net: Name=NetIC1_5
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_6 Pin=IC2-42
+Added Pin To Net: NetName=NetIC1_6 Pin=R3-2
+Added Net: Name=NetIC1_6
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=IC2-46
+Added Pin To Net: NetName=NetIC1_7 Pin=R2-2
+Added Net: Name=NetIC1_7
+Added Pin To Net: NetName=NetIC2_44 Pin=IC2-44
+Added Pin To Net: NetName=NetIC2_44 Pin=R7-1
+Added Net: Name=NetIC2_44
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=R8-1
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetJ1_11 Pin=J1-11
+Added Pin To Net: NetName=NetJ1_11 Pin=R9-1
+Added Net: Name=NetJ1_11
+Added Pin To Net: NetName=NFC_GPO Pin=H1-6
+Added Net: Name=NFC_GPO
+Added Pin To Net: NetName=NRST Pin=C12-1
+Added Pin To Net: NetName=NRST Pin=H2-5
+Added Pin To Net: NetName=NRST Pin=IC2-7
+Added Pin To Net: NetName=NRST Pin=R10-2
+Added Pin To Net: NetName=NRST Pin=SW1-1
+Added Pin To Net: NetName=NRST Pin=SW1-2
+Added Net: Name=NRST
+Added Pin To Net: NetName=SYS_SWCLK Pin=H2-2
+Added Pin To Net: NetName=SYS_SWCLK Pin=IC2-37
+Added Net: Name=SYS_SWCLK
+Added Pin To Net: NetName=SYS_SWDIO Pin=H2-4
+Added Pin To Net: NetName=SYS_SWDIO Pin=IC2-34
+Added Net: Name=SYS_SWDIO
+Added Pin To Net: NetName=SYS_SWO Pin=H2-6
+Added Net: Name=SYS_SWO
+Added Pin To Net: NetName=USB_D_N Pin=D5-2
+Added Pin To Net: NetName=USB_D_N Pin=IC2-32
+Added Pin To Net: NetName=USB_D_N Pin=J1-8
+Added Pin To Net: NetName=USB_D_N Pin=J1-10
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=D6-2
+Added Pin To Net: NetName=USB_D_P Pin=IC2-33
+Added Pin To Net: NetName=USB_D_P Pin=J1-7
+Added Pin To Net: NetName=USB_D_P Pin=J1-9
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=V_EH Pin=C1-1
+Added Pin To Net: NetName=V_EH Pin=H3-2
+Added Pin To Net: NetName=V_EH Pin=IC1-1
+Added Pin To Net: NetName=V_EH Pin=R1-1
+Added Net: Name=V_EH
+Added Pin To Net: NetName=V_MCU Pin=C3-1
+Added Pin To Net: NetName=V_MCU Pin=C4-1
+Added Pin To Net: NetName=V_MCU Pin=C5-1
+Added Pin To Net: NetName=V_MCU Pin=C6-1
+Added Pin To Net: NetName=V_MCU Pin=C7-1
+Added Pin To Net: NetName=V_MCU Pin=C8-1
+Added Pin To Net: NetName=V_MCU Pin=D7-1
+Added Pin To Net: NetName=V_MCU Pin=D8-1
+Added Pin To Net: NetName=V_MCU Pin=H1-1
+Added Pin To Net: NetName=V_MCU Pin=IC1-8
+Added Pin To Net: NetName=V_MCU Pin=IC2-1
+Added Pin To Net: NetName=V_MCU Pin=IC2-9
+Added Pin To Net: NetName=V_MCU Pin=IC2-24
+Added Pin To Net: NetName=V_MCU Pin=IC2-48
+Added Pin To Net: NetName=V_MCU Pin=R2-1
+Added Pin To Net: NetName=V_MCU Pin=R3-1
+Added Pin To Net: NetName=V_MCU Pin=R4-1
+Added Pin To Net: NetName=V_MCU Pin=R10-1
+Added Net: Name=V_MCU
+Added Pin To Net: NetName=V_USB Pin=C10-1
+Added Pin To Net: NetName=V_USB Pin=D4-2
+Added Pin To Net: NetName=V_USB Pin=J1-4
+Added Pin To Net: NetName=V_USB Pin=J1-13
+Added Pin To Net: NetName=V_USB Pin=U1-1
+Added Pin To Net: NetName=V_USB Pin=U1-3
+Added Net: Name=V_USB
+Added Pin To Net: NetName=XIN Pin=C13-1
+Added Pin To Net: NetName=XIN Pin=IC2-5
+Added Pin To Net: NetName=XIN Pin=Y1-3
+Added Net: Name=XIN
+Added Pin To Net: NetName=XOUT Pin=C14-2
+Added Pin To Net: NetName=XOUT Pin=IC2-6
+Added Pin To Net: NetName=XOUT Pin=Y1-1
+Added Net: Name=XOUT
+Added Differential Pair: Name=USB_D
+Added Member To Class: ClassName=NFC_Controller Member=Component A1 Antenna
+Added Member To Class: ClassName=NFC_Controller Member=Component C1 100n
+Added Member To Class: ClassName=NFC_Controller Member=Component C2 10p
+Added Member To Class: ClassName=NFC_Controller Member=Component C3 100n
+Added Member To Class: ClassName=NFC_Controller Member=Component C4 10p
+Added Member To Class: ClassName=Microcontroller Member=Component C5 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C6 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C7 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C8 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C9 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C10 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C11 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C12 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C13 10p
+Added Member To Class: ClassName=Microcontroller Member=Component C14 10p
+Added Member To Class: ClassName=NFC_Controller Member=Component D1 LED
+Added Member To Class: ClassName=Microcontroller Member=Component D2 LED
+Added Member To Class: ClassName=Microcontroller Member=Component D3 LED
+Added Member To Class: ClassName=Microcontroller Member=Component D4 5V
+Added Member To Class: ClassName=Microcontroller Member=Component D5 5V
+Added Member To Class: ClassName=Microcontroller Member=Component D6 5V
+Added Member To Class: ClassName=Microcontroller Member=Component D7 1N5819
+Added Member To Class: ClassName=Microcontroller Member=Component D8 1N5819
+Added Member To Class: ClassName=NFC_Controller Member=Component H1 Header
+Added Member To Class: ClassName=Microcontroller Member=Component H2 Header
+Added Member To Class: ClassName=Microcontroller Member=Component H3 Header
+Added Member To Class: ClassName=NFC_Controller Member=Component IC1 ST25DV16KC-IE6S3
+Added Member To Class: ClassName=Microcontroller Member=Component IC2 STM32L052C8T6
+Added Member To Class: ClassName=Microcontroller Member=Component J1 USB C
+Added Member To Class: ClassName=NFC_Controller Member=Component R1 5.11k
+Added Member To Class: ClassName=NFC_Controller Member=Component R2 10k
+Added Member To Class: ClassName=NFC_Controller Member=Component R3 10k
+Added Member To Class: ClassName=NFC_Controller Member=Component R4 10k
+Added Member To Class: ClassName=Microcontroller Member=Component R5 10k
+Added Member To Class: ClassName=Microcontroller Member=Component R6 10k
+Added Member To Class: ClassName=Microcontroller Member=Component R7 10k
+Added Member To Class: ClassName=Microcontroller Member=Component R8 5.11k
+Added Member To Class: ClassName=Microcontroller Member=Component R9 5.11k
+Added Member To Class: ClassName=Microcontroller Member=Component R10 10k
+Added Member To Class: ClassName=Microcontroller Member=Component SW1 Tactile Switch - 1
+Added Member To Class: ClassName=Microcontroller Member=Component U1 TPS7A0333PDBVR
+Added Member To Class: ClassName=Microcontroller Member=Component Y1 ECS-120-10-36B2-CWY-TR
