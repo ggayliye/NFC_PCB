@@ -168,8 +168,89 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQVDRJKG
 
+[Document8]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for NFC_luggage_Tag_PCB_Project\Design Rule Check - NFC_Lugg_Tag_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\NC Drill\NFC_Lugg_Tag_PCB-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\NC Drill\NFC_Lugg_Tag_PCB-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\NC Drill\NFC_Lugg_Tag_PCB-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\NC Drill\NFC_Lugg_Tag_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Gerber\NFC_Lugg_Tag_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Gerber\NFC_Lugg_Tag_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Gerber\NFC_Lugg_Tag_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\Gerber\NFC_Lugg_Tag_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\NFC_Lugg_Tag_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Gerber\NFC_Lugg_Tag_PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Gerber\NFC_Lugg_Tag_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\Gerber\NFC_Lugg_Tag_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Gerber\NFC_Lugg_Tag_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Gerber\NFC_Lugg_Tag_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\NC Drill\NFC_Lugg_Tag_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Gerber\NFC_Lugg_Tag_PCB.REP
 DItemRevisionGUID=
 
 [Configuration1]

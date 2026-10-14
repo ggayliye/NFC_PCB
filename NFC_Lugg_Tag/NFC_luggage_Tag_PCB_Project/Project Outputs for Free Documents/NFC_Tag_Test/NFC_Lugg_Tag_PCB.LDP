@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\OneDrive - University of Utah\.UofU\.Masters\6.Fall2026\PCB Design IEEE\.gitHub\NFC_PCB\NFC_Lugg_Tag\NFC_luggage_Tag_PCB_Project\NFC_Lugg_Tag_PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=nfc_lugg_tag_pcb-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=nfc_lugg_tag_pcb-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=nfc_lugg_tag_pcb-roundholes-nonplated.txt|DrillLayers=gtl,gbl

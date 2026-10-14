@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NFC_Lugg_Tag_PCB.PcbDoc   10/12/2026  4:45:57 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : NFC_Lugg_Tag_PCB-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : NFC_Lugg_Tag_PCB-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : NFC_Lugg_Tag_PCB-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.35mm)                                            Round             2         PTH        0.18inch (4.50mm)
+T2      20mil (0.5mm)                                             Round             16        PTH        2.61inch (66.19mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.42inch (36.19mm)
+T4      28mil (0.711mm)                                           Round             17        PTH        5.09inch (129.21mm)
+T5      41mil (1.05mm)                                            Round             6         PTH        0.50inch (12.70mm)
+T6      45mil (1.15mm)                                            Round             8         PTH        2.02inch (51.24mm)
+T7      197mil (5mm)                                              Round             3         NPTH       0.46inch (11.70mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              56
+
+Total Processing Time (hh:mm:ss) : 00:00:00
